@@ -1,1 +1,2 @@
 # odin-recipes
+This website is a simple project called "SimpleRecipe" to store recipe of easy-to-cook and no time-consuming food from different country in the world. Currently, it has 3 recipes "Bibimbap", "Spaghetti" and "Chicken paprikash". I am looking for future commit to add more recipes in the future.
